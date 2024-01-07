@@ -3,6 +3,9 @@ The repository presents an approach to comparing demographic data across various
 
 Where do professional developers disappear after 30? An intriguing age profile compared to other professions. This question is explored in the article *Is 40 the new 60? How popular media portrays the employability of older software developers*, https://arxiv.org/abs/2004.05847.
 
+
+![alt text](https://github.com/AndreyIvanoff/Is-40-the-new-60/blob/main/over30.png "Logo Title Text 1")
+
 The data used for graph construction are sourced from:
 * Developer Survey Results 2019, Stack Overflow, https://insights.stackoverflow.com/survey/2019
 * Labor and Employment in Russia. 2021: Statistical Collection/Rosstat – Moscow, 2021. – 177 p. (in Russian), https://rosstat.gov.ru/storage/mediabank/Trud_2021.pdf
